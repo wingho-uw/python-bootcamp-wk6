@@ -1,0 +1,26 @@
+# core numeric packages
+numpy <2
+scipy
+matplotlib
+pandas <3
+seaborn
+xarray
+# secondary numeric packages
+imageio
+scikit-learn
+joblib
+networkx
+# file formats
+pyhdf
+h5py
+netcdf4
+openpyxl
+# ocean specific
+cartopy
+cmocean
+# jupyter
+ipykernel
+ipympl
+jupyter-lsp
+jupyterlab
+notebook
